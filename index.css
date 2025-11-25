@@ -174,3 +174,9 @@ body.dark #theme-toggle {
 body.dark #theme-toggle:hover {
   background-color: #666;
 }
+
+body.dark .card h3 {
+  font-size: 20px;
+  margin-bottom: 8px;
+  color: #90caf9;
+}
